@@ -16,3 +16,6 @@ To generate a build ready for production:
     npm run build
 
 Then deploy the contents of the `dist` directory to your server.  You can also run `npm run serve` to serve the results of the `dist` directory for preview.
+
+Here is a screen shot of the application.
+![Screen Shot 2023-03-20 at 7 30 36 PM](https://user-images.githubusercontent.com/82268257/226365312-4bcce15c-e98a-4139-97f8-1822347dc738.png)
